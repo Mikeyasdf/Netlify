@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5eebe42c-d11b-4bcf-94ed-d4634d45466d/deploy-status)](https://app.netlify.com/sites/deluxe-dusk-648760/deploys)
